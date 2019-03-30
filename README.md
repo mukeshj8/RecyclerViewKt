@@ -1,2 +1,2 @@
 # RecyclerViewKt
-Recycler view example for kotlin android
+Recycler view example kotlin android
